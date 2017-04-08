@@ -1,0 +1,197 @@
+[
+    {
+        "outputFile": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 51,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 41,
+                    "endOffset": 144
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 353,
+                        "endColumn": 41,
+                        "endOffset": 390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 149,
+                    "endColumn": 88,
+                    "endOffset": 233
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 713,
+                        "endColumn": 85,
+                        "endOffset": 797
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 238,
+                    "endColumn": 49,
+                    "endOffset": 283
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 113,
+                        "endColumn": 49,
+                        "endOffset": 158
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 288,
+                    "endColumn": 54,
+                    "endOffset": 338
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endColumn": 54,
+                        "endOffset": 213
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 343,
+                    "endColumn": 35,
+                    "endOffset": 374
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 395,
+                        "endColumn": 35,
+                        "endOffset": 426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 379,
+                    "endColumn": 140,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 428,
+                        "endColumn": 137,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 149,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 566,
+                        "endColumn": 146,
+                        "endOffset": 711
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 59,
+                    "endOffset": 725
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 59,
+                        "endOffset": 348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 730,
+                    "endColumn": 64,
+                    "endOffset": 790
+                },
+                "from": {
+                    "file": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 64,
+                        "endOffset": 283
+                    }
+                }
+            }
+        ]
+    }
+]

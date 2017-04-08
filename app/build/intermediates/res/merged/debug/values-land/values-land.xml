@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="adv_button_padding">0dp</dimen>
+    <dimen name="adv_button_text">16sp</dimen>
+    <dimen name="norm_button_text">28sp</dimen>
+</resources>
