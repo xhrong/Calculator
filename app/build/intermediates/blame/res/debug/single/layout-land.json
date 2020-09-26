@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\main.xml",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\layout-land\\main.xml"
+    },
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\mainblue.xml",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\layout-land\\mainblue.xml"
+    },
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\mainorange.xml",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\layout-land\\mainorange.xml"
+    },
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\mainred.xml",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\layout-land\\mainred.xml"
+    },
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\mainpurple.xml",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\layout-land\\mainpurple.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo_orange.png",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\drawable-ldpi\\logo_orange.png"
+    },
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo_red.png",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\drawable-ldpi\\logo_red.png"
+    },
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_launcher.png",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo_default.png",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\drawable-ldpi\\logo_default.png"
+    },
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo_blue.png",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\drawable-ldpi\\logo_blue.png"
+    },
+    {
+        "merged": "E:\\GitHubProject\\Calculator\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\logo_purple.png",
+        "source": "E:\\GitHubProject\\Calculator\\app\\src\\main\\res\\drawable-ldpi\\logo_purple.png"
+    }
+]

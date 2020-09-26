@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\xhrong\.android\build-cache\0883ce10433a7b990320a8c7fb2436c072f6e933\output\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="E:\GitHubProject\Calculator\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_5c6d96d356d4b450b593077bf6d6221ac6e86485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xhrong\.android\build-cache\0883ce10433a7b990320a8c7fb2436c072f6e933\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="E:\GitHubProject\Calculator\app\build\intermediates\pre-dexed\debug\classes_27696ea722478eae3b91c5577ea0a6026fb751f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\xhrong\.android\build-cache\62a5ace8f62cd21a12b62d5f22977a3bd79e67c4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e47268e271ff279aca3dfdd62587b8c90b6da14">
+        <dex dex="E:\GitHubProject\Calculator\app\build\intermediates\pre-dexed\debug\classes_be101a65357bd8beba5de82f5ebf5ce8ff3fc10b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\adt-bundle-windows-x86_64-20140702\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="E:\GitHubProject\Calculator\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_bc884043a0268517a76ced8a85791ba1cf30eeb4.jar" />
+    </item>
+
+</items>
