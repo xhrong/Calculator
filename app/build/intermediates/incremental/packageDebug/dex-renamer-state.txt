@@ -1,4 +1,0 @@
-#Sat Apr 08 11:34:39 CST 2017
-base.0=E\:\\GitHubProject\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=E\:\\GitHubProject\\Calculator\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
